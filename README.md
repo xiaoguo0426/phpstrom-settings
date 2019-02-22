@@ -1,0 +1,2 @@
+# phpstrom-settings
+phpstrom-settings
